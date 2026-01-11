@@ -16,3 +16,6 @@
 [submodule "plugin/Packages/Highlighter"]
 	path = plugin/Packages/Highlighter
 	url = https://github.com/boatbomber/highlighter.git
+[submodule "rojo"]
+	path = rojo
+	url = https://github.com/COmpriomized/rojo.git
